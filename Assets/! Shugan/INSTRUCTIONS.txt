@@ -1,0 +1,31 @@
+Thank you for getting of Akai !
+
+- Create a new unity project ( Unity 2019.4.31f1)
+- Download the latest VRChat SDK3 (VRChat Avatars) on the VRCHat website https://vrchat.com/home/download and import it to your Unity project
+- Import the latest Poyiomi Shader (Poyiomi Pro is optional but needed for the DPS)
+- Import (optional) the Dynamic Bones
+- Import (optional) the Dynamic Penetration System (DPS). If you have Poyiomi Pro locate in the Unity folder 'Assets/RalivDynamicPenetrationSystem/Plugins' and import 'RalivPenetrationForPoiyomiPro.unitypackage' (double click on the file)
+- Import AkaiByShugan.unitypackage
+- Drag and drop the scene Akai on the Hierarchy to see all the differents versions of Akai (or drop only the prefab version you want in the default scene)
+- Open the Vrchat SDK Control Panel and export your avatar (Build & Publish for Windows).
+
+Troubleshouting
+- If it shows any Error in the builder, click autofix.
+- If there is an error during the upload, click on your avatar in the scene then in the inspector locate the component 'Pipelane Manager (Script)' and click 'Detach'
+
+If you still experience issues after following those instructions, please use my Discord server section 'unity help' in https://discord.gg/PSB9XNP
+
+**RULES/TOS**
+
+You can NOT re-sell, re-distribute, or share this asset in any way (Discord Nitro Boosting, Asset Trading etc)
+You can NOT use this asset for anything illegal, or hateful
+You CAN use the avatar for public avatars in any VR social game or similar User Generated Content platform IF you CREDIT me
+You CAN use individual assets on the avatar for other NOT COMMERCIAL projects IF you CREDIT me
+These rules are subject to change at any time.
+
+PLEASE DM ME IF YOU HAVE ANY QUESTIONS ABOUT ANY OF THESE RULES
+
+
+VRChat : Shugan
+Discord : Shugan#5652
+Discord Server : https://discord.gg/PSB9XNP

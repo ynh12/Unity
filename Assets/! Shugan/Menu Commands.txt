@@ -1,0 +1,12 @@
+**HOW TO USE THE MENU**
+
+TESTED ONLY ON VALVE INDEX CONTROLLER !
+
+Enable Menu : Left Fist + Right Fist (maintain Left Fist gesture to keep the menu active)
+Unlock Menu : 2 sec Pressure Right Trigger
+Navigate Down : Trigger Left
+Navigate Up : Trigger Left + Right Thumbs Up
+Toggle : Right Trigger
+Hue/Size : Right Triger then Left Trigger Pressure to choose the value, Right Trigger again to select the value
+Grab Menu Overlay : Right RocknRoll for 2 sec
+Grab Menu Hologram : Right Victory for 2 sec
